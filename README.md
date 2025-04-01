@@ -85,7 +85,7 @@ library(leaps)
 
 ## 📬 Contact
 
-Have questions or ideas? Reach out via [LinkedIn](https://www.linkedin.com/in/prannoy-kathiresan)
+Have questions or ideas? Reach out via [LinkedIn](https://www.linkedin.com/in/prannoy-k)
 
 ---
 
