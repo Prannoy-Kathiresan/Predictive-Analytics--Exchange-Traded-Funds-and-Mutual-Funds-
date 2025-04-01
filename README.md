@@ -1,4 +1,4 @@
-# 📈 Predictive Analysis of ETFs and Mutual Funds (MFs) Using R
+# 📈 Predictive Analysis of Exchange Traded Funds (ETFs) and Mutual Funds (MFs) Using R
 
 This project analyzes and compares the predictive performance of Exchange-Traded Funds (ETFs) and Mutual Funds (MFs) using statistical modeling and machine learning techniques in R. It leverages a rich financial dataset scraped from Yahoo Finance to evaluate factors influencing fund returns and classification outcomes.
 
